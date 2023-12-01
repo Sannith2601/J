@@ -1,5 +1,5 @@
 # Malware-Detection-Using-Machine-Learning-in-Android
-Android Malware Detection Using Machine Learning Project with Source Code and Documents Plus Video Explanation
+Android Malware Detection Using Machine Learning Project with Source Code
 
 ### Abstract : 
 Android is the world's most popular and widely used operating system for mobile smartphones today. One
